@@ -1,10 +1,8 @@
-# SIaU: Human-Centric Motion Prediction through 3D Scene Interaction-Aware Understanding
+# HuMo3D: Intention-Aware Human-Centric Motion Prediction in 3D Scenes
 
 ## Overview
 
-This repository contains the official implementation of the paper **[SIaU: Human-Centric Motion Prediction through 3D Scene Interaction-Aware Understanding](#)**.
-
-For additional details, please visit our [project page](https://sites.google.com/view/spl2025siau).
+This repository contains the official implementation of the paper **HuMo3D: Intention-Aware Human-Centric Motion Prediction in 3D Scenes**.
 
 ## Setup
 
@@ -57,7 +55,7 @@ Download and install the following dependencies:
 
 ## Dataset
 
-The SIaU method utilizes a standard-processed dataset. However, due to confidentiality constraints, we are unable to release the processed version.
+The HuMo3D method utilizes a standard-processed dataset. However, due to confidentiality constraints, we are unable to release the processed version.
 
 To obtain the raw dataset, please follow the instructions provided in the official [GIMO repository](https://github.com/y-zheng18/GIMO?tab=readme-ov-file#dataset).
 
@@ -116,7 +114,7 @@ To evaluate the model, simply execute the following command:
 bash scripts/eval.sh
 ```
 
-(Optional) Download our [pre-trained SIaU model weights](https://drive.google.com/file/d/1LmVXbpkB2YiVQaedzZdinUVm-YGixvp1/view?usp=drive_link). Remember to adjust the **load_model_dir** in the script before running it.
+(Optional) Download our [pre-trained HuMo3D model weights](https://drive.google.com/file/d/1LmVXbpkB2YiVQaedzZdinUVm-YGixvp1/view?usp=drive_link). Remember to adjust the **load_model_dir** in the script before running it.
 
 ### Training
 
