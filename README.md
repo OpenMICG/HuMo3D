@@ -1,4 +1,4 @@
-# HuMo3D: Intention-Aware Human-Centric Motion Prediction in 3D Scenes
+# SPL2026 HuMo3D: Intention-Driven Dual-Branch Multimodal Human Motion Prediction in 3D Scenes
 
 ## Overview
 
